@@ -1,0 +1,13 @@
+Graphics:
+I don't think we should make it super simple. Just make sure that the contrast between the number written on the
+block and the color of the block itself be the opposite i.e. white number on black block. Let's choose the font so that the number block has this kinda squiggly feel instead of modern and rigid feel. " https://el-observador.com/wp-content/uploads/2017/04/gaming-633x445.jpg " should have a similar feel like this one.
+What i mean is it should be very rudimentary; should look like a game on CLI
+
+
+This is what I hope it would look like in the end.
+https://docs.google.com/document/d/1Io77QykrMn143ipdTLajM8NpdVO1p4c2L2at1-212oU/edit?usp=sharing
+for more details and suggestions
+
+gui later 
+Pretty good right now
+Now trying to implement suicide prevention as well as overkilling dead players.
